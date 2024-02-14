@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "vv",
+            "request": "launch",
+            "mainClass": "vv",
+            "projectName": "dept_9ccefc8a"
+        },
+        {
+            "type": "java",
+            "name": "ss",
+            "request": "launch",
+            "mainClass": "ss",
+            "projectName": "dept_9ccefc8a"
+        },
+        {
+            "type": "java",
+            "name": "vs",
+            "request": "launch",
+            "mainClass": "vs",
+            "projectName": "dept_9ccefc8a"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": ""
+        }
+    ]
+}
